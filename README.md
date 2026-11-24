@@ -127,3 +127,7 @@ with a nonzero code only when an integrity check fails.
 Counts such as N, W and the success flags are deterministic for the pinned package versions;
 times depend on the machine. On our machine, `python run_all.py` in a fresh clone reproduced every
 result record and endpoint behind the paper bit for bit, and Figures 1-3 pixel for pixel.
+
+## License
+
+MIT License, Copyright (c) 2026 Vincent-Yotsubato. See [LICENSE](LICENSE).
